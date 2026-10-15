@@ -1,0 +1,41 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+# Groq
+groq
+
+# Vector Database
+chromadb
+
+# Embedding Models
+sentence-transformers
+
+# Document Loaders
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+# Text Processing
+tiktoken
+
+# Environment Variables
+python-dotenv
+
+# Data Handling
+pandas
+numpy
+
+# API / App Layer
+fastapi
+uvicorn
+python-multipart
+
+# UI
+streamlit
+
+# Utilities
+tqdm
+requests
